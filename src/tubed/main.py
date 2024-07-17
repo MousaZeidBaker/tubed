@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 import typer
-from pytube import Stream, YouTube
+from pytubefix import Stream, YouTube
 
 # configure typer cli app
 app = typer.Typer(add_completion=False)
