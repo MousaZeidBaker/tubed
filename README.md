@@ -7,6 +7,11 @@
 
 ## Usage
 
+Start shell
+```shell
+poetry shell
+```
+
 Show help message and exit
 ```shell
 tubed --help
