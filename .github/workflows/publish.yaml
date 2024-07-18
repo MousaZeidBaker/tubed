@@ -18,10 +18,10 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: Install poetry 1.1.14
+      - name: Install poetry
         uses: snok/install-poetry@v1
         with:
-          version: 1.1.14
+          version: 1.8.3
 
       - name: Install dependencies
         run: poetry install
@@ -58,10 +58,10 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: Install poetry 1.1.14
+      - name: Install poetry
         uses: snok/install-poetry@v1
         with:
-          version: 1.1.14
+          version: 1.8.3
 
       - name: Install dependencies
         run: poetry install
