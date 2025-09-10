@@ -2,7 +2,7 @@
 
 ![build](https://github.com/MousaZeidBaker/tubed/workflows/Publish/badge.svg)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-![python_version](https://img.shields.io/badge/python-%3E=3.8-blue)
+![python_version](https://img.shields.io/badge/python-%3E=3.9-blue)
 [![pypi_v](https://img.shields.io/pypi/v/tubed)](https://pypi.org/project/tubed)
 
 ## Usage
