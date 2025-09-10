@@ -1,10 +1,6 @@
 [tool.poetry]
 name = "tubed"
-<<<<<<< HEAD
-version = "0.1.1"
-=======
 version = "0.2.0"
->>>>>>> master
 description = "Youtube downloader"
 authors = ["Mousa Zeid Baker"]
 packages = [
@@ -34,15 +30,9 @@ classifiers=[
 include = ["LICENSE"]
 
 [tool.poetry.dependencies]
-<<<<<<< HEAD
-python = "^3.7"
-typer = "^0.6.1"
-pytubefix = "^6.2.2"
-=======
 python = "^3.9"
 typer = "^0.17.4"
 pytubefix = "^9.5.0"
->>>>>>> master
 
 [tool.poetry.dev-dependencies]
 black = "^25.1.0"
