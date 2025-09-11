@@ -25,7 +25,7 @@ tubed --url https://www.youtube.com/watch?v=xFrGuyw1V8s --only-audio
 Download from URLs specified in the [example.txt](./playlists/example.txt)
 file
 ```shell
-tubed --url-file playlists/example.txt
+tubed --url-file playlists/example.txt --only-audio --output-path output/example
 ```
 
 ## Contributing
